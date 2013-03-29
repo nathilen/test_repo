@@ -3,6 +3,7 @@ second line
 added a new line after secondÂ
 new stuff 
 third line
+branch addded here
 master did something
 master again
 master stuff
