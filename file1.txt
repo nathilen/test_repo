@@ -1,5 +1,6 @@
 first line
 second line 
+added a new line after secondÂ
 third line
 master did something
 master again
