@@ -2,4 +2,5 @@ first line
 second line 
 third line
 master did something
-master againÂ
+master again
+master stuff
