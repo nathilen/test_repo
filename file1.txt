@@ -15,3 +15,4 @@ line before going to detached state
 added by dev to try rebase after stuff has been added in another branch
 dev again
 [dev] lola
+[dev] lola 2
