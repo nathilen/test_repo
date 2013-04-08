@@ -22,4 +22,3 @@ dev again
 [dev] lola 2
 [master] lola 3
 [master] learning tag
-[master] learning tag
